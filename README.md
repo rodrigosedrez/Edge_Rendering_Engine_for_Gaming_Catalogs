@@ -4,12 +4,12 @@
 
 **A Cloudflare Worker that dynamically generates SEO-friendly HTML for search engine crawlers while preserving the SPA experience for real users.**
 
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white)
-![Workers KV](https://img.shields.io/badge/Storage-Workers%20KV-F38020?logo=cloudflare&logoColor=white)
-![Cache API](https://img.shields.io/badge/Cache-Cloudflare%20Cache%20API-F38020?logo=cloudflare&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES%20Modules-F7DF1E?logo=javascript&logoColor=black)
-![Blazor](https://img.shields.io/badge/Frontend-Blazor%20WebAssembly-512BD4?logo=blazor&logoColor=white)
-![SEO](https://img.shields.io/badge/Focus-Technical%20SEO-2E7D32)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020)
+![Workers KV](https://img.shields.io/badge/Edge_storage-Workers_KV-F38020)
+![Cache API](https://img.shields.io/badge/Edge_cache-Cache_API-F38020)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES_Modules-F7DF1E)
+![Blazor](https://img.shields.io/badge/Frontend-Blazor_WebAssembly-512BD4)
+![SEO](https://img.shields.io/badge/Focus-Technical_SEO-2E7D32)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 </div>
